@@ -1,0 +1,19 @@
+.s3{
+  background-color:gray;
+  padding:30px 20px 30px 20px;
+  margin:50px 50px 50px 50px;
+}
+.navbar-toggler:active{
+  border:bold;
+}
+.border-dark{
+  border-width: 0.5px;
+  border-style: ridge;
+}
+.head_contain{
+  border:2px;
+  border-style: solid;
+}
+.navbar{
+  background-color: gray;
+}
